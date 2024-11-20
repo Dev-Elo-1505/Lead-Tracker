@@ -1,3 +1,7 @@
+
+
+<img width="950" alt="lead-tracker" src="https://github.com/user-attachments/assets/2ae25bb7-08d7-49dd-a6ce-ac6d4abe8f0c">
+
 # Lead Tracker
 Lead Tracker is a lightweight Chrome extension that helps users gather leads by saving tab links effortlessly. It’s an essential tool for professionals, marketers, and students who want to organize and revisit valuable links.
 
