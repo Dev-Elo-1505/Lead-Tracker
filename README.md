@@ -1,19 +1,31 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Lead Tracker
+Lead Tracker is a lightweight Chrome extension that helps users gather leads by saving tab links effortlessly. It’s an essential tool for professionals, marketers, and students who want to organize and revisit valuable links.
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+# Features
+Save your current tab's link with a single click.
+View, manage, and revisit saved links easily.
+Export saved links for external use.
+Simple and intuitive user interface.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+# Installation
+Clone or download this repository.
+Open Chrome and navigate to chrome://extensions/.
+Enable Developer mode (toggle in the top-right corner).
+Click Load unpacked and select the folder containing the extension files.
+The Lead Tracker icon will appear in your Chrome toolbar, ready to use!
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+# Usage
+Open a tab with the link you want to save.
+Click the Lead Tracker icon in your Chrome toolbar.
+The link will be saved and displayed in the extension's list.
+Use the extension to manage your saved links: revisit, delete, or export them as needed.
 
-Happy Coding!
+# Contributing
+Contributions are welcome! If you have ideas or enhancements, feel free to:
+
+Fork the repository.
+Create a branch for your feature.
+Submit a pull request.
+
+# License
+This project is licensed under the MIT License.
